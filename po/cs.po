@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-05-01 11:58+0200\n"
-"PO-Revision-Date: 2010-01-09 23:01+0100\n"
-"Last-Translator: VladimírSlávik <slavik.vladimir@nospam@seznam.cz>\n"
+"PO-Revision-Date: 2010-01-10 13:33+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -98,12 +98,12 @@ msgstr "Invaze"
 #. [part]
 #: Dead_Water/scenarios/01_Invasion.cfg:18
 msgid "In the Northern Lands, where the Mountains of Dorth reach the coast, lies a bay with a narrow mouth. In this bay was the merman city of Jotha. The natural harbor and the prosperity of the merfolk within drew many envious eyes. Still, none could match the strength of the mermen in their aquatic domain, and countless orc raiding parties were driven from the shores."
-msgstr "V Severních zemích, tam, kde pohoří Dorth přechází do pobřeží, leží zátoka spojená s mořem úzkým průlivem. V této zátoce leželo město Jotha, patřící mořskému lidu. Výhodnost tohoto přirozeného přístavu spojená s prosperitou jeho mořských obyvatel přitahovala mnoho závistivých očí. Přesto nikdo nebyl schopen soupeřit se silou mořského lidu v jejich vodní domovině. Již nesčetné skřetí nájezdy byly od pobřeží odraženy."
+msgstr "V Severních zemích, tam, kde pohoří Dorth přechází do pobřeží, leží zátoka spojená s mořem úzkým průlivem. V této zátoce leželo město Jota, patřící mořskému lidu. Výhodnost tohoto přirozeného přístavu spojená s prosperitou jeho mořských obyvatel přitahovala mnoho závistivých očí. Přesto nikdo nebyl schopen soupeřit se silou mořského lidu v jejich vodní domovině. Již nesčetné skřetí nájezdy byly od pobřeží odraženy."
 
 #. [part]
 #: Dead_Water/scenarios/01_Invasion.cfg:22
 msgid "In 626 YW, Jotha was attacked by the largest raiding party yet. The king, Kai Laudiss, and his troops repelled the raiders, but several good soldiers were killed. When the raiders finally fled, Kai Laudiss readied his army to follow, determined to secure the safety of Jotha with an overwhelming display of force. The merman army caught up as the orc band reached the port city of Tirigaz."
-msgstr "V roce 626 YW zažila Jotha zatím největší útočný vpád. Král Kai Laudiss a jeho vojáci nájezdníky zapudili, ale několik dobrých vojáků za to zaplatilo životem. Když nájezdníci nakonec prchli, Kai Laudiss znovu seřadil hotovost své armády k pronásledování, rozhodnutý zajistit bezpečí Jothy pomocí drtivého projevu bojové síly. Armáda mořských lidí dohnala skřetí skupinu, když dosáhla přístavu Tirigaz."
+msgstr "V roce 626 YW zažila Jota zatím největší útočný vpád. Král Kai Laudiss a jeho vojáci nájezdníky zapudili, ale několik dobrých vojáků za to zaplatilo životem. Když nájezdníci nakonec prchli, Kai Laudiss znovu seřadil hotovost své armády k pronásledování, rozhodnutý zajistit bezpečí Joty pomocí drtivého projevu bojové síly. Armáda mořských lidí dohnala skřetí skupinu, když dosáhla přístavu Tirigaz."
 
 #. [part]
 #: Dead_Water/scenarios/01_Invasion.cfg:26
@@ -115,12 +115,12 @@ msgstr "Pod rouškou noci proklouzli mořští lidé do zálivu, připraveni zah
 msgid "Kai Laudiss' army fought fiercely, slaying five orcs for every soldier they lost. The orcs discovered that trapped mermen were tougher than they had imagined, and found themselves fleeing into the forest to escape their spears. It was a defeat the orcs would not soon forget, but the cost was high. Kai Laudiss was killed along with most of his army. When the remaining soldiers returned to Jotha, Krellis, the son of Kai Laudiss, discovered that he was now Kai."
 msgstr ""
 "Vojáci Kai Laudisse bojovali zuřivě, skolili pět skřetů za každého svého mrtvého. Skřeti zjistili, že obklíčení mořští lidé jsou tužší bojovníci, než předpokládali a ze strachu z jejich oštěpů tak začali utíkat do lesa. Byla to porážka, kterou neměli skřeti dlouho zapomenout. Byla však těžce zaplacena. Kai Laudiss padl spolu s většinou své armády.\n"
-"Když se přeživší vojáci vrátili do Jothy, stal se Krellis, syn Kai Laudisse, novým Kai.  "
+"Když se přeživší vojáci vrátili do Joty, stal se Krellis, syn Kai Laudisse, novým Kai.  "
 
 #. [part]
 #: Dead_Water/scenarios/01_Invasion.cfg:34
 msgid "Kai Krellis felt too young for the responsibilities of a kingdom, so he relied on the wisdom of a priestess named Cylanna. She had been a friend of his father, and he had known her as long as he could remember. Cylanna mourned the former Kai, but believed that his sacrifice would allow Krellis to preside over an age of peace. Unfortunately, that was not to be. A new enemy appeared from under the mountains."
-msgstr "Kai Krellis se cítil příliš mladý, aby nesl odpovědnost za království, proto se spoléhal na moudrost kněžky jménem Cyllana. Byla přítelkyní jeho otce a Kai Krellis ji znal už od doby, co pamatoval. Cyllana truchlila pro předchozího Kaie, ale věřila, že jeho oběť by mohla umožnit Krellisovi vládnout ve věku míru. Naneštěstí tomu tak nebylo. Z hor se vyrojil nový nepřítel."
+msgstr "Kai Krellis se cítil příliš mladý, aby nesl odpovědnost za království, proto se spoléhal na moudrost kněžky jménem Cyllana. Byla přítelkyní jeho otce a Kai Krellis ji znal již od dětství co mu paměť sahala. Cyllana truchlila pro předchozího Kaie, ale věřila, že jeho oběť by mohla umožnit Krellisovi vládnout ve věku míru. Naneštěstí tomu tak nebylo. Z hor se vyrojil nový nepřítel."
 
 #. [side]: type=Dark Sorcerer, id=Mal Kevek
 #: Dead_Water/scenarios/01_Invasion.cfg:56
@@ -748,7 +748,7 @@ msgstr "Vidím to tak, že jste mi pomohli. Není nic, po čem bych toužil víc
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/04_Slavers.cfg:683
 msgid "Well met, then, friend. I am Kai Krellis, leader of the people of Jotha."
-msgstr "Tedy dobré setkání, příteli. Jsem Kai Krellis, vůdce lidu Jothy."
+msgstr "Tedy dobré setkání, příteli. Jsem Kai Krellis, vůdce lidu Joty."
 
 #. [message]
 #: Dead_Water/scenarios/04_Slavers.cfg:698
@@ -1129,7 +1129,7 @@ msgstr "Vítejte mořští lidé! Už je to dlouho, co nás někdo z venku navš
 #. [message]: speaker=Cylanna
 #: Dead_Water/scenarios/08_Talking_To_Tyegea.cfg:153
 msgid "The honor is ours. I present Kai Krellis of Jotha."
-msgstr "Jsme poctěni. Představuji ti Kai Krellise z Jothy."
+msgstr "Jsme poctěni. Představuji ti Kai Krellise z Joty."
 
 #. [message]: speaker=Tyegea
 #: Dead_Water/scenarios/08_Talking_To_Tyegea.cfg:157
@@ -1145,7 +1145,7 @@ msgstr "Vím o čem?"
 #. [message]: speaker=Cylanna
 #: Dead_Water/scenarios/08_Talking_To_Tyegea.cfg:165
 msgid "Now is not the time. We have a desperate errand, Tyegëa. Jotha is under attack."
-msgstr "Teď na to není pravá chvíle. Jsme v zoufalé situaci Tyjegeo. Jotha byla napadena."
+msgstr "Teď na to není pravá chvíle. Jsme v zoufalé situaci Tyjegeo. Jota byla napadena."
 
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/08_Talking_To_Tyegea.cfg:169
@@ -1257,7 +1257,7 @@ msgstr "Posvěcená voda"
 #. [message]: speaker=Tyegea
 #: Dead_Water/scenarios/08_Talking_To_Tyegea.cfg:283
 msgid "Now go. Come back with the flaming sword, and my priestesses and I will help you save Jotha."
-msgstr "Teď jdi. Vrať se s plameným mečem a já ti se svými kněžkami pomůžu zachránit Jothu."
+msgstr "Teď jdi. Vrať se s plameným mečem a já ti se svými kněžkami pomůžu zachránit Jotu."
 
 #. [scenario]: id=The_Mage
 #: Dead_Water/scenarios/09_The_Mage.cfg:6
@@ -1267,12 +1267,12 @@ msgstr "Mág"
 #. [part]
 #: Dead_Water/scenarios/09_The_Mage.cfg:14
 msgid "The party traveled back to the mainland and followed the shore north. Kai Krellis had much to think about. First, he was reevaluating the way he saw his family. Second, he was nervous about the task ahead. After all their experience he was sure they could handle it, but he was afraid he would lose some good soldiers. He was sometimes angry at Tyegëa for sending him on this extra journey, and sometimes grateful that she was willing to help at all."
-msgstr "Skupina se vrátila zpět ke kontinentu a pokračovala na sever podél pobřeží. Kai Krellis měl mnoho věcí k přemýšlení. Především přehodnocoval svůj pohled na svou rodinu. Pak byl nervózní ohledně úkolu, co ho čekal. Potom, co už prožili, si byl jistý, že to asi zvládnou, ale obával se, že ztratí některé dobré vojáky. Někdy ho přepadal vztek, že ho Tyjegea poslala na tuto zvláštní misi a někdy jí byl vděčný, že mu vůbec chce pomoci."
+msgstr "Skupina se vrátila zpět ke kontinentu a pokračovala na sever podél pobřeží. Kai Krellis měl mnoho námětů k přemýšlení. Především přehodnocoval svůj pohled na svou rodinu. Pak byl nervózní ohledně úkolu, co ho čekal. Potom, co už prožili, si byl jistý, že to asi zvládnou, ale obával se, že ztratí některé dobré vojáky. Někdy ho přepadal vztek, že ho Tyjegea poslala na tuto zvláštní misi a někdy jí byl vděčný, že mu vůbec chce pomoci."
 
 #. [part]
 #: Dead_Water/scenarios/09_The_Mage.cfg:18
 msgid "After several days, the smell of the swamp was just becoming noticeable when they came across a small ruined castle like Tyegëa had mentioned. Night was falling, and it was very dark beneath the trees, but Krellis was in a hurry, now that the end of their journey was in sight. He decided to go ashore and try to find the mage immediately."
-msgstr "Několik dní poté se pach bažiny stal zřetelným, právě když dorazili do malé ruiny hradu. Byla podobna té, o které vykládala Tyjegea. Padala tma a mezi stromy nebylo skoro vidět, ale Krellis pospíchal, neboť cíl cesty byl na dosah. Rozhodl, aby pokračovali dál do nitra pevniny a pokusili se najít mága co nejdřív."
+msgstr "Několik dní poté se pach bažiny stal zřetelným, právě když dorazili do malé ruiny hradu. Byla podobna té, o které vykládala Tyjegea. Padala tma a mezi stromy nebylo skoro vidět, ale Krellis pospíchal, neboť cíl cesty byl nadosah. Rozhodl, aby pokračovali dál do nitra pevniny a pokusili se najít mága co nejdřív."
 
 #. [side]
 #: Dead_Water/scenarios/09_The_Mage.cfg:95
@@ -1357,7 +1357,7 @@ msgstr "Jsem Kaladon. Mám být rád, že vidím TEBE?"
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/09_The_Mage.cfg:526
 msgid "I am Kai Krellis of Jotha. I am seeking a flaming sword, and I am told you know where to find it."
-msgstr "Jsem Kai Krellis z Jothy. Hledám plamenný meč a bylo mi řečeno že víš, kde ho najít."
+msgstr "Jsem Kai Krellis z Joty. Hledám plamenný meč a bylo mi řečeno že víš, kde ho najít."
 
 #. [message]: speaker=Caladon
 #: Dead_Water/scenarios/09_The_Mage.cfg:530
@@ -1534,7 +1534,7 @@ msgstr "Hej vy tam! Kdo jste? Jsi ten, kdo tu hulákal o převzetí meče?"
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:382
 msgid "I am Kai Krellis of Jotha. I am attempting to defeat Mal Govon and take his sword. Would you like to join us in battle against a common enemy?"
-msgstr "Jsem Kai Krellis z Jothy. Pokouším se porazit Mal Govona a získat jeho meč. Přidáte se k nám v bitvě proti společnému nepříteli?"
+msgstr "Jsem Kai Krellis z Joty. Pokouším se porazit Mal Govona a získat jeho meč. Přidáte se k nám v bitvě proti společnému nepříteli?"
 
 #. [message]: speaker=Howyrth
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:387
@@ -1743,7 +1743,7 @@ msgstr "Poraz všechny nepřátelské vůdce"
 #. [message]: speaker=Nebthun
 #: Dead_Water/scenarios/12_Revenge.cfg:523
 msgid "Kai Krellis! You live! We thought you and your people had all been killed when Jotha fell."
-msgstr "Kai Krellisi! Žiješ! Mysleli jsme, že jste ty a tví lidé všichni zahynuli, když padla Jotha."
+msgstr "Kai Krellisi! Žiješ! Mysleli jsme, že jste ty a tví lidé všichni zahynuli, když padla Jota."
 
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/12_Revenge.cfg:527
@@ -1883,37 +1883,37 @@ msgstr "Epilog"
 #. [message]: speaker=narrator
 #: Dead_Water/scenarios/13_Epilogue.cfg:32
 msgid "After destroying Mal-Ravanal's henchmen, Kai Krellis waited nervously for another attack. But, it never came. Krellis sent some messengers south to find out what they could. The news that came back was better than good. Mal-Ravanal was dead! Soldiers of Wesnoth had defeated him at about the same time the mermen had defeated the undead at Jotha. With the evil wizard gone, the mermen relaxed and began rebuilding in earnest, and soon Jotha was restored."
-msgstr "Po zničení Mal-Ravanalových stoupenců očekával Kai Krellis s neklidem další útok. Ten ale nikdy nepřišel. Krellis poslal několik poslů jižně, aby zjistili, co se dá. Novinky, které přinesli, byly více než dobré. Mal-Ravanal byl zničen! Vojáci Wesnothu ho porazili asi v tu dobu, kdy mořští lidé porazili nemrtvé u Jothy. Když se tak zlý čaroděj stal minulostí, mořští lidé se uklidnili a začali znovu svědomitě budovat. Jotha byla brzy obnovena."
+msgstr "Po zničení Mal-Ravanalových stoupenců, očekával Kai Krellis s neklidem další útok. Ten ale nikdy nepřišel. Krellis poslal několik poslů jižně, aby zjistili, co se dá. Novinky, které přinesli byly více než dobré. Mal-Ravanal byl zničen! Vojáci Wesnothu ho porazili asi v tu dobu, kdy mořští lidé porazili nemrtvé u Joty. Když se tak zlý čaroděj stal minulostí, mořští lidé se uklidnili a začali znovu svědomitě budovat. Jota byla brzy obnovena."
 
 #. [message]: speaker=narrator
 #: Dead_Water/scenarios/13_Epilogue.cfg:38
 msgid "Not everything was normal, of course. Many good merfolk had been lost in the first attacks and on the journey. The visiting priestesses did much to console the families of the dead, and as it always does, life continued. In a few months, the giggles of children could be heard echoing through shallows. Many of those children were named after Kai Krellis, Gwabbo, Cylanna, and the other heroes."
-msgstr "Ne všechno bylo při starém, samozřejmě. Během prvního náporu a během cesty zahynulo mnoho dobrých rybích lidí. Přítomné kněžky vykonaly mnoho pro utěšení pozůstalých a jak tomu bývá, život šel dál. Za několik měsíců v mělčinách nesla ozvěna dětské hihňání. Mnoho z těch dětí mělo jména podle Kai Krellise, Gwabba, Cylanny a dalších hrdinů."
+msgstr "Ne všechno bylo při starém samozřejmě. Během prvního náporu a během cesty zahynulo mnoho dobrých rybích lidí. Přítomné kněžky vykonaly mnoho pro utěšení pozůstalých a jak tomu bývá, život šel dál. Za několik měsíců v mělčinách nesla ozvěna dětské hihňání. Mnoho z těch dětí mělo jména podle Kai Krellise, Gwabba, Cylanny a dalších hrdinů."
 
 #. [message]: speaker=narrator
 #: Dead_Water/scenarios/13_Epilogue.cfg:49
 msgid "Tyegëa returned to her home, but continued to keep in touch with her grandson. Most of her priestesses went with her, but a few of them stayed in Jotha, enriching the culture of the city."
-msgstr "Tyjegea se vrátila do svého domova, ale zůstávala v kontaktu se svým vnukem. Většina kněžek odešla s ní, ale některé zůstaly v Jothě a pozvedaly kulturu města."
+msgstr "Tyjegea se vrátila do svého domova, ale zůstávala v kontaktu se svým vnukem. Většina kněžek odešla s ní, ale některé zůstaly v Jotě a pozvedaly kulturu města."
 
 #. [message]: speaker=narrator
 #: Dead_Water/scenarios/13_Epilogue.cfg:62
 msgid "Cylanna never traveled far again. She stayed in Jotha as a respected elder. Krellis didn't need advising any more, so her main work was healing the sick, and presiding at christenings and weddings. All this agreed with her disposition much better than battling undead."
-msgstr "Cylanna nikam nikam moc necestovala. Zůstávala v Jothě jako respektovaná starší. Krellis už jí nepotřeboval jako rádkyni, takže většinu času léčila nemocné a vykonávala svatby a křtiny. To ostatně odpovídalo jejím dispozicím víc než potírání nemrtvých."
+msgstr "Cylanna nikam nikam moc necestovala. Zůstávala v Jotě jako respektovaná starší. Krellis už jí nepotřeboval jako rádkyni, takže většinu času léčila nemocné a vykonávala svatby a křtiny. To ostatně odpovídalo jejím dispozicím víc než potírání nemrtvých."
 
 #. [message]: speaker=narrator
 #: Dead_Water/scenarios/13_Epilogue.cfg:69
 msgid "Kai Krellis was somber over the next months as he grieved over the loss of Cylanna, but the grief diminished with time leaving only fond memories."
-msgstr "Kai Krellise během následujících měsíců přepadly chmury, jak truchlil po ztrátě Cylanny. Čas ale zahladil smutek, ponechávajíce pouze příjemné vzpomínky."
+msgstr "Kai Krellise během následujících měsíců přepadly chmury. Truchlil po ztrátě Cylanny. Čas ale zahladil smutek, ponechávajíce pouze příjemné vzpomínky."
 
 #. [message]: speaker=narrator
 #: Dead_Water/scenarios/13_Epilogue.cfg:82
 msgid "Gwabbo lived to a ripe old age in Jotha. Tales of his heroics were told to merfolk children for generations thereafter. He became an almost legendary figure."
-msgstr "Gwabbo žil až do zralého stáří v Jothě. Historky o jeho heroických skutcích byly vyprávěny mnohým dalším generacím mořských dětí. Stal se takřka legendární postavou."
+msgstr "Gwabbo žil až do zralého stáří v Jotě. Historky o jeho heroických skutcích byly vyprávěny mnohým dalším generacím mořských dětí. Stal se takřka legendární postavou."
 
 #. [message]: speaker=narrator
 #: Dead_Water/scenarios/13_Epilogue.cfg:95
 msgid "Teeloa returned to his home where he had been captured by the saurians. He was delighted to find that many of his family members had also returned. He visited Jotha frequently, and remained friends with all the other veterans."
-msgstr "Teeloa se vrátil do svého domova, tam, kde byl chycen ještěráky. S potěšením zjistil, že mnoho členů jeho rodiny se také vrátilo. Často navštěvoval Jothu a udržoval přátelství s ostatními veterány."
+msgstr "Teeloa se vrátil do svého domova, tam, kde byl chycen ještěráky. S potěšením zjistil, že mnoho členů jeho rodiny se také vrátilo. Často navštěvoval Jotu a udržoval přátelství s ostatními veterány."
 
 #. [message]: speaker=narrator
 #: Dead_Water/scenarios/13_Epilogue.cfg:108
@@ -1923,7 +1923,7 @@ msgstr "Keshan se vrátil do Bilheldu, kde byli drakonidé stále bez vůdce. Po
 #. [message]: speaker=narrator
 #: Dead_Water/scenarios/13_Epilogue.cfg:121
 msgid "Inky lived with Krellis at court and frolicked in the kelp beds of Jotha until he became fat and lazy in his old age."
-msgstr "Inky žil u Krellisova dvora a dováděl v chaluhových záhonech Jothy, dokud nezestárl, neztloustl a nezlenivěl."
+msgstr "Inky žil u Krellisova dvora a dováděl v chaluhových záhonech Joty, dokud nezestárl, neztloustl a nezlenivěl."
 
 #. [message]: speaker=narrator
 #: Dead_Water/scenarios/13_Epilogue.cfg:129
