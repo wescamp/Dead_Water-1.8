@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-04-19 18:01+0200\n"
+"POT-Creation-Date: 2010-04-30 19:56+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2040,11 +2040,6 @@ msgstr ""
 #. [unit_type]: id=Merman Citizen, race=merman
 #: ./Dead_Water/units/Citizen.cfg:20
 msgid "Mermen are mostly peaceful, but will fight to defend their homes. In this situation, even mermen with no weapons or training can be dangerous."
-msgstr ""
-
-#. [unit_type]: id=Dark Shape, race=monster
-#: ./Dead_Water/units/Dark_Shape.cfg:19
-msgid ""
 msgstr ""
 
 #. [unit_type]: id=Fire Guardian, race=monster
