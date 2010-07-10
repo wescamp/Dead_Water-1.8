@@ -3,9 +3,10 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-04-30 19:56+0200\n"
-"PO-Revision-Date: 2010-05-04 12:09+0100\n"
+"PO-Revision-Date: 2010-06-29 13:01+0100\n"
 "Last-Translator: Kelemen Zoltán <kelemen_zoltan@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2186,6 +2187,8 @@ msgid ""
 "(whisper) Kai, I heard Caladon muttering about the sword. I think he may try "
 "to take it for himself."
 msgstr ""
+"(suttogva) Kai, hallottam, hogy Caladon valamit mormog a kardról. Azt "
+"hiszem, magának akarja megszerezni."
 
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:307
@@ -2193,6 +2196,8 @@ msgid ""
 "Thank you, $spy_unit.name|. I will keep that in mind, but it may be hard for "
 "us to stop him with that teleporting trick he has."
 msgstr ""
+"Köszönöm, $spy_unit.name|. Gondolni fogok rá, bár nem tudom, hogy tudnánk "
+"megállítani. Ez a teleportálás nehéz ügy."
 
 #. [message]: speaker=Caladon
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:316
@@ -2413,7 +2418,7 @@ msgstr ""
 #. [message]: speaker=$staff_tip_off
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:741
 msgid "Kai! He dropped his staff! We can attack him whenever we want now!"
-msgstr ""
+msgstr "Kai! Eldobta a botját! Most már bármikor rátámadhatunk!"
 
 #. [message]: speaker=Cylanna
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:745
@@ -2421,6 +2426,8 @@ msgid ""
 "We can pretend we are going to leave though. That would buy me some time to "
 "heal the wounded."
 msgstr ""
+"Visszavonulást színlelhetünk. Legalább a sebesültjeinket is kezelésbe tudom "
+"venni ezalatt."
 
 #. [message]: speaker=Caladon
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:781
@@ -2997,6 +3004,11 @@ msgid ""
 "their bidding. When not being controlled they like to frolic in pools of "
 "lava and take great delight in burning anything they can reach."
 msgstr ""
+"Az élő tüzek füstből és lángból álló szellemek. Senki sem tudja, honnan "
+"jöttek, de rendszerint hatalmas mágusok idézik meg őket, hogy teljesítsék "
+"parancsaikat. Amikor kiszabadulnak az őket megidézők befolyása alól, "
+"lávateknőkben lubickolnak, s előszeretettel égetnek hamuvá mindent, amit "
+"csak elérnek."
 
 #. [attack]: type=fire
 #: Dead_Water/units/Fire_Guardian.cfg:29
